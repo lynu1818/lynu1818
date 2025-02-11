@@ -1,11 +1,11 @@
-## 👋 Hi, I'm 陳俐妤 (Li-Yu Chen)
+## About Me
 
 🎓 Junior Computer Science student at National Tsing Hua University (NTHU)  
 💡 Passionate about Software Development, AI, and Computer Vision
 
 ---
 
-## 🛠️ Side Projects
+## Side Projects
 
 - **A Tailored AI-Integrated Platform for Police**  🔗 [GitHub](https://github.com/lynu1818/genai) | [Demo](https://genaistars.org.tw/award/hackathon/13) | [News](https://unews.nccu.edu.tw/unews/thu%ef%bc%8dpolice%ef%bc%8dai/)
   <br> 🛠 **AWS BedRock, Streamlit, Python**
@@ -43,7 +43,7 @@
   <br> 🔹 Developed a social platform for coffee lovers, allowing users to find, review, and upload images of coffee shops by location.
 
 ---
-## 🏆 Achievements
+## Achievements
 
 - 2024 GenAI Stars Generative AI Application Selection – Top Award + Most Popular Award
 - 2024 OpenHCI – Top Award + Most Popular Award
@@ -51,7 +51,7 @@
 
 ---
 
-## 🔧 Skills
+## Skills
 
 ### **Programming Languages**
 - C++, C, Python, JavaScript, TypeScript, SQL
