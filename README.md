@@ -19,12 +19,12 @@
   <br> A multiplayer battle game with real-time networking & leaderboard systems.
   
 - [**Taipei City Cultural Explorer**](https://github.com/lynu1818/townpass-history)
-  <br> **React, Google Maps API**
-  <br> Implemented a **map-based microservice** for the **Taipei City Pass**, allowing users to explore cultural landmarks.
+  <br> **React**
+  <br> Implemented a map-based microservice for the Taipei City Pass, allowing users to explore cultural landmarks.
 
 - [**Stylish**](https://github.com/lynu1818/Stylish)
-  <br> **MVC, Docker, AWS S3, Node.js, Redis**
-  <br> Developed a **full-stack e-commerce site** with **RESTful APIs, CI/CD pipelines, and AWS S3 integration**.
+  <br> **Docker, AWS S3, Node.js, Redis, GitHub Actions**
+  <br> Developed an e-commerce backend with RESTful APIs, CI/CD pipelines, and AWS S3 integration.
 
 - **Cafe Journey** [GitHub (Frontend)](https://github.com/lynu1818/cafe_journey_frontend) [GitHub (Backend)](https://github.com/lynu1818/cafe_journey_backend)
   <br> **Node.js, SQL, Next.js, React, TailwindCSS, Google Maps API**
